@@ -13,8 +13,8 @@ A comprehensive platform designed to serve both students and their advisors, pro
 
 ## Tech Stack🧑‍💻
 
-![DOTNET](https://img.shields.io/badge/.NET_8-%20%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=%23512BD4)
-![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927)
+![DOTNET](https://img.shields.io/badge/.NET_8-%20%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=%23512BD4)  
+![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927)  
 ![Static Badge](https://img.shields.io/badge/Razor%20Pages-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=%23512BD4&color=%23512BD4)
 
 Here's a brief high-level overview of the tech stack the website uses:
