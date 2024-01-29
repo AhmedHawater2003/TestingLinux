@@ -1,10 +1,5 @@
-<h3 align="center">
-  <br>
-  <img src="https://www.pwcs.edu/userfiles/servers/server_340140/image/student-services/school-counseling/academic_advising.png" alt="Markdownify" width="700"></a>
-  <br>
-  Advising Students DataBase System
-  <br>
-</h3>
+![image](https://www.pwcs.edu/userfiles/servers/server_340140/image/student-services/school-counseling/academic_advising.png)
+<h2 align = "center" >Advising Students DataBase System<h2>
 
 #
 
@@ -12,14 +7,14 @@ A comprehensive platform designed to serve both students and their advisors, pro
 
 ## Table of Contents
 
-- 🧑‍💻 [Tech Stack](#tech)
-- 🛫 [Main Features](#featues)
+- 🧑‍💻 [Tech Stack](#tech-stack)
+- 🛫 [Main Features](#main-features)
   - [Admin Panel](#admin-panel)
   - Student Panel
   - Advisor Panel
-- 🔨 [Try it on your Machine](#install)
+- 🔨 [Try it on your Machine](#try-it-on-your-machine)
 
-## 👨‍💻 Tech stack {#tech}
+## Tech Stack🧑‍💻
 
 ![DOTNET](https://img.shields.io/badge/.NET_8-%20%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=%23512BD4)
 ![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927)
@@ -32,7 +27,7 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 - **Razor Pages** were employed to streamline page-focused scenarios, offering enhanced productivity compared to using controllers and views due to the relative simplicity of the website.
 - On the **FrontEnd**, we employed HTML, CSS, and Bootstrap, leveraging the Razor syntax to integrate C# instead of JavaScript, thus facilitating a smoother development process.
 
-## 🛫 Main Features {#featues}
+## Main Features🛫
 
 The website offers various features and functionalities through the main three panels.
 
@@ -58,7 +53,7 @@ Admin can also alter and modify the existing data by specifying the required par
 
 ### Advisor Panel
 
-## 🔨 Try it on your Machine {#install}
+## Try it on your Machine🔨
 
 1. cloning the repo on your local machine
 
