@@ -1,30 +1,38 @@
-![image](https://www.pwcs.edu/userfiles/servers/server_340140/image/student-services/school-counseling/academic_advising.png)
+<h3 align="center">
+  <br>
+  <img src="https://www.pwcs.edu/userfiles/servers/server_340140/image/student-services/school-counseling/academic_advising.png" alt="Markdownify" width="600"></a>
+  <br>
+  Advising Students DataBase System
+  <br>
+</h3>
+
+---
 
 A comprehensive platform designed to serve both students and their advisors, providing multiple privileges to streamline the advising experience, all monitored through a sufficient admin dashboard.
 
 ## Table of Contents
 
-- 🧑‍💻 [Tech Stack](#tech-stack)
-- 🛫 [Main Features](#main-features)
+- 🧑‍💻 [Tech Stack](#tech)
+- 🛫 [Main Features](#featues)
   - [Admin Panel](#admin-panel)
   - Student Panel
   - Advisor Panel
-- 🔨 [Try it on your Machine](#try-it-on-your-machine)
+- 🔨 [Try it on your Machine](#install)
 
-## Tech Stack🧑‍💻
+## 👨‍💻 Tech stack {#tech}
 
-![DOTNET](https://img.shields.io/badge/.NET_8-%20%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=%23512BD4)  
-![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927)  
+![DOTNET](https://img.shields.io/badge/.NET_8-%20%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927)
 ![Static Badge](https://img.shields.io/badge/Razor%20Pages-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=%23512BD4&color=%23512BD4)
 
-Here's a brief high-level overview of the tech stack the website uses:
+Here's a brief high-level overview of the tech stack the Well app uses:
 
 - This project utilizes **ASP.NET** Core with .NET 8 as the target framework to manage the backend and route different HTTP requests.
 - For the **DataBase**, we opted for Microsoft SQL Server to handle various CRUD operations (Create, Read, Update, and Delete) using SQL stored procedures and functions.
 - **Razor Pages** were employed to streamline page-focused scenarios, offering enhanced productivity compared to using controllers and views due to the relative simplicity of the website.
 - On the **FrontEnd**, we employed HTML, CSS, and Bootstrap, leveraging the Razor syntax to integrate C# instead of JavaScript, thus facilitating a smoother development process.
 
-## Main Features🛫
+## 🛫 Main Features {#featues}
 
 The website offers various features and functionalities through the main three panels.
 
@@ -50,7 +58,7 @@ Admin can also alter and modify the existing data by specifying the required par
 
 ### Advisor Panel
 
-## Try it on your Machine🔨
+## 🔨 Try it on your Machine {#install}
 
 1. cloning the repo on your local machine
 
