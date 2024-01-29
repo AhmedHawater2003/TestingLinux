@@ -1,5 +1,4 @@
 ![image](https://www.pwcs.edu/userfiles/servers/server_340140/image/student-services/school-counseling/academic_advising.png)
-<h2 align = "center" >Advising Students DataBase System</h2>
 
 A comprehensive platform designed to serve both students and their advisors, providing multiple privileges to streamline the advising experience, all monitored through a sufficient admin dashboard.
 
