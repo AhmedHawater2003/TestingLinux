@@ -1,10 +1,12 @@
 <h3 align="center">
   <br>
-  <img src="https://www.pwcs.edu/userfiles/servers/server_340140/image/student-services/school-counseling/academic_advising.png" alt="Markdownify" width="600"></a>
+  <img src="https://www.pwcs.edu/userfiles/servers/server_340140/image/student-services/school-counseling/academic_advising.png" alt="Markdownify" width="700"></a>
   <br>
   Advising Students DataBase System
   <br>
 </h3>
+
+#
 
 A comprehensive platform designed to serve both students and their advisors, providing multiple privileges to streamline the advising experience, all monitored through a sufficient admin dashboard.
 
